@@ -1,5 +1,5 @@
-Hi there 👋, I'm Suraj Kumar Rauta
-
+Hi there 👋, I'm #Suraj Kumar Rauta
+![Banner](https://www.canva.com/design/DAGNzAnNbv0/dxbbwTkW8pnIMcjF0kBo4Q/edit?utm_content=DAGNzAnNbv0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Data Analyst Enthusiast | SQL | Python | Data Visualization | R | Tableau | Excel | Power BI | Predictive Modeling | Data Collection & Analysis
 --------------------------------------------------------------------------------------------------------------------------------------
 About Me:-
