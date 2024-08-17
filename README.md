@@ -1,7 +1,7 @@
 Hi there 👋, I'm Suraj Kumar Rauta
 
 Data Analyst Enthusiast | SQL | Python | Data Visualization | R | Tableau | Excel | Power BI | Predictive Modeling | Data Collection & Analysis
-
+--------------------------------------------------------------------------------------------------------------------------------------
 About Me:-
 
 I'm a passionate data analyst dedicated to transforming raw data into actionable insights. With a strong foundation in data analysis and visualization, I focus on delivering business intelligence solutions that help drive strategic decisions.
@@ -14,24 +14,11 @@ I'm a passionate data analyst dedicated to transforming raw data into actionable
 
 4.💡 Experienced in creating dashboards, predictive models, and working with time series data.
 
-Technical Skills:-
-
-1.Languages: Python, R, SQL
-
-2.Tools & Technologies: Tableau, Power BI, Excel, NumPy, Pandas
-
-3.Specializations: Data Visualization, Predictive Modeling, Time Series Analysis, Business Intelligence
-
-Experience:-
-
-* Internships: Accenture (Data Analysis), Tata Group (Data Visualization), Quantium (Data Analytics)
-* 
-Certifications:-
-
-1.Cisco's Data Analytics Essentials
-2.Infosys Business Intelligence Course
-3.Accenture Virtual Internship (Data Analysis)
-4.Tata Group Data Visualization Job Simulation
+## Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Contact Me:-
 
