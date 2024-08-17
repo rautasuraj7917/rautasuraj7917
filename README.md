@@ -1,4 +1,4 @@
-Hi there 👋, I'm # Suraj Kumar Rauta
+# Hi there 👋, I'm  Suraj Kumar Rauta
 
 Data Analyst Enthusiast | SQL | Python | Data Visualization | R | Tableau | Excel | Power BI | Predictive Modeling | Data Collection & Analysis
 --------------------------------------------------------------------------------------------------------------------------------------
